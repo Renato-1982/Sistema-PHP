@@ -1,0 +1,33 @@
+/*CORPO DA PAGINA*/
+body{
+  font-size: 12px;
+}
+.btn{
+  border-radius: 15px;
+}
+/*TELA LOGIN*/
+.formulario {
+  border-radius: 15px;          
+  box-shadow: 0 0 30px #000000;
+}
+.input-group-text {
+  width: 3rem;
+  text-align: center;
+}
+.btn {
+  border-radius: 15px;
+}
+#btn-senha {
+  font-size: 25px;
+  cursor: pointer;
+  position: absolute;
+  right: 2%;
+  color: #777777;
+}
+#btn-senhaConfirma {
+    font-size: 25px;
+    cursor: pointer;
+    position: absolute;
+    right: 2%;
+    color: #777777;
+}
